@@ -1,0 +1,20 @@
+Section 10: 
+
+Test a single piece of code in isolation -> single middleware 
+Test how different pieces of code work together -
+Test how different components work together
+Test how different services work together 
+
+Testing Goals 
+Basic Request Handling 
+Some Test around models - unit testing
+Event emitting + recieving 
+
+
+Run these test directly directly from our terminal -> Implies that out local 
+environment is capable of running each service -> Simple enough now, but
+more complex projects might make this hard
+
+Basic Request Handling for auth 
+
+Restart JEST if you think that you fixed the issue.
